@@ -55,7 +55,7 @@
     
     grid-column-gap: 1px; /*中の線　gridの線の太さ調整*/
     grid-row-gap: 1px; /*中の線　gridの線の太さ調整*/
-    grid-template-columns: 200px auto auto;
+    grid-template-columns: 200px 400px auto;
     grid-template-rows: auto auto auto auto auto;
 
     column-gap: 2rem; 
